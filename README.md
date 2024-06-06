@@ -1,4 +1,4 @@
-# Walletminer-Wallethunter-Lostwalletfinder-
+# Walletminer-Wallethunter-Lostwalletfinder-WalletBruteforce
 https://github.com/WalletHunter1/Walletminer-Wallethunter-Lostwalletfinder-/assets/170337376/e210d253-d3a9-4c35-88fe-bff4401937a6
 
 WalletHunter
