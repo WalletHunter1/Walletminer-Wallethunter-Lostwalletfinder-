@@ -2,7 +2,7 @@
 https://github.com/WalletHunter1/Walletminer-Wallethunter-Lostwalletfinder-/assets/170337376/e210d253-d3a9-4c35-88fe-bff4401937a6
 
 WalletHunter
-🌟 Wallet Hunter: Fast and Effective Crypto Wallet Cracker! 🌟
+🌟 Wallet Hunter: Fast and Effective Crypto Wallet Cracker! 🌟x
 Welcome to the dawn of a new era in cryptocurrency with Wallet Hunter. Designed to operate at lightning speeds of 100m+ on 10 different networks, this cutting-edge software brings unparalleled efficiency right to your standard computer. Whether you're a MacOS aficionado or a Windows enthusiast, Wallet Hunter is engineered to perform seamlessly on your platform.
 
 🚀 Achieve Instant Success!
